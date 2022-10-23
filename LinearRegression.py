@@ -37,6 +37,6 @@ class LinearRegression:
              R2
         ]
 
-reg = LinearRegression(df.iloc[:,1:3], df.Effect)
+reg = LinearRegression(df.iloc[:,1:3], df.)
 
 print(reg.fit())
